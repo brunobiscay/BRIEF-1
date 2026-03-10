@@ -1,0 +1,41 @@
+2026-03-10 14:29:58.264 | INFO     | __main__:analyse_sentiment:19 - Résultats: {'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+2026-03-10 14:30:12.847 | INFO     | __main__:analyse_sentiment:19 - Résultats: {'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+2026-03-10 14:30:35.130 | INFO     | __main__:analyse_sentiment:19 - Résultats: {'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+2026-03-10 14:31:00.361 | INFO     | __main__:analyse_sentiment:19 - Résultats: {'neg': 0.0, 'neu': 0.685, 'pos': 0.315, 'compound': 0.3182}
+2026-03-10 17:01:49.949 | INFO     | sentiment_api_bbi:analyse_text_client:19 - Résultats: {'neg': 0.0, 'neu': 0.0, 'pos': 1.0, 'compound': 0.3182}
+2026-03-10 20:33:14.703 | INFO     | sentiment_api_bbi:analyse_text_client:19 - Résultats: {'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+2026-03-10 20:33:24.039 | INFO     | sentiment_api_bbi:analyse_text_client:19 - Résultats: {'neg': 0.0, 'neu': 0.0, 'pos': 1.0, 'compound': 0.3182}
+2026-03-10 20:35:41.755 | INFO     | sentiment_api_bbi:analyse_text_client:19 - Résultats: {'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+2026-03-10 20:36:10.889 | INFO     | sentiment_api_bbi:analyse_text_client:19 - Résultats: {'neg': 0.0, 'neu': 0.0, 'pos': 1.0, 'compound': 0.3182}
+2026-03-10 20:37:20.135 | INFO     | sentiment_api_bbi:analyse_text_client:19 - Résultats: {'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+2026-03-10 20:41:23.008 | INFO     | sentiment_api_bbi:analyse_text_client:19 - Résultats: {'neg': 0.0, 'neu': 0.0, 'pos': 1.0, 'compound': 0.3182}
+2026-03-10 20:41:54.530 | INFO     | sentiment_api_bbi:analyse_text_client:19 - Résultats: {'neg': 0.0, 'neu': 0.0, 'pos': 1.0, 'compound': 0.3182}
+2026-03-10 20:44:48.694 | INFO     | sentiment_api_bbi:analyse_text_client:19 - Résultats: {'neg': 0.0, 'neu': 0.0, 'pos': 1.0, 'compound': 0.3182}
+2026-03-10 20:45:59.501 | INFO     | sentiment_api_bbi:analyse_text_client:19 - Résultats: {'neg': 0.0, 'neu': 0.0, 'pos': 1.0, 'compound': 0.3182}
+2026-03-10 20:46:42.027 | INFO     | sentiment_api_bbi:analyse_text_client:19 - Résultats: {'neg': 0.0, 'neu': 0.0, 'pos': 1.0, 'compound': 0.3182}
+2026-03-10 20:49:32.256 | INFO     | sentiment_api_bbi:analyse_text_client:19 - Résultats: {'neg': 0.0, 'neu': 0.0, 'pos': 1.0, 'compound': 0.3182}
+2026-03-10 20:51:19.245 | INFO     | sentiment_api_bbi:analyse_text_client:19 - Résultats: {'neg': 0.0, 'neu': 0.0, 'pos': 1.0, 'compound': 0.3182}
+2026-03-10 20:52:55.028 | INFO     | sentiment_api_bbi:analyse_text_client:19 - Résultats: {'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+2026-03-10 21:00:41.866 | INFO     | sentiment_api_bbi:analyse_text_client:19 - Résultats: {'neg': 0.0, 'neu': 0.0, 'pos': 1.0, 'compound': 0.3182}
+2026-03-10 21:00:48.289 | INFO     | sentiment_api_bbi:analyse_text_client:19 - Résultats: {'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}
+2026-03-10 21:00:49.908 | INFO     | sentiment_api_bbi:analyse_text_client:19 - Résultats: {'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}
+2026-03-10 21:05:44.091 | INFO     | sentiment_api_bbi:analyse_text_client:33 - Analyse du texte: texte='cool'
+2026-03-10 21:05:44.099 | INFO     | sentiment_api_bbi:analyse_text_client:38 - Résultats: {'neg': 0.0, 'neu': 0.0, 'pos': 1.0, 'compound': 0.3182}
+2026-03-10 21:05:54.121 | INFO     | sentiment_api_bbi:analyse_text_client:33 - Analyse du texte: texte='---e e \n'
+2026-03-10 21:05:54.125 | INFO     | sentiment_api_bbi:analyse_text_client:38 - Résultats: {'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+2026-03-10 21:09:11.038 | INFO     | sentiment_api_bbi:analyse_text_client:33 - Analyse du texte: texte='cool'
+2026-03-10 21:09:11.046 | INFO     | sentiment_api_bbi:analyse_text_client:38 - Résultats: {'neg': 0.0, 'neu': 0.0, 'pos': 1.0, 'compound': 0.3182}
+2026-03-10 21:21:20.921 | INFO     | sentiment_api:analyse_text_client:33 - Analyse du texte: texte="c'est difficile à faire"
+2026-03-10 21:21:20.928 | INFO     | sentiment_api:analyse_text_client:38 - Résultats: {'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+2026-03-10 21:21:28.676 | INFO     | sentiment_api:analyse_text_client:33 - Analyse du texte: texte="y'en a marre"
+2026-03-10 21:21:28.680 | INFO     | sentiment_api:analyse_text_client:38 - Résultats: {'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+2026-03-10 21:21:30.143 | INFO     | sentiment_api:analyse_text_client:33 - Analyse du texte: texte="y'en a marre"
+2026-03-10 21:21:30.148 | INFO     | sentiment_api:analyse_text_client:38 - Résultats: {'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+2026-03-10 21:21:40.602 | INFO     | sentiment_api:analyse_text_client:33 - Analyse du texte: texte="j'en ai marre"
+2026-03-10 21:21:40.606 | INFO     | sentiment_api:analyse_text_client:38 - Résultats: {'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+2026-03-10 21:21:42.094 | INFO     | sentiment_api:analyse_text_client:33 - Analyse du texte: texte="j'en ai marre"
+2026-03-10 21:21:42.099 | INFO     | sentiment_api:analyse_text_client:38 - Résultats: {'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+2026-03-10 21:21:46.702 | INFO     | sentiment_api:analyse_text_client:33 - Analyse du texte: texte='cool'
+2026-03-10 21:21:46.706 | INFO     | sentiment_api:analyse_text_client:38 - Résultats: {'neg': 0.0, 'neu': 0.0, 'pos': 1.0, 'compound': 0.3182}
+2026-03-10 21:21:57.816 | INFO     | sentiment_api:analyse_text_client:33 - Analyse du texte: texte="c'est cool"
+2026-03-10 21:21:57.821 | INFO     | sentiment_api:analyse_text_client:38 - Résultats: {'neg': 0.0, 'neu': 0.303, 'pos': 0.697, 'compound': 0.3182}
